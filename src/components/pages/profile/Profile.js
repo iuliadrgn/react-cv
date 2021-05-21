@@ -13,12 +13,18 @@ class Profile extends Component {
                 </div>
                 <div className="card red lighten-2 z-depth-0">
                     <div className="card-content center social">
-                        <h2 className="white-text text-lighten-3">
+                        <h2 className="white-text text-darken-3">
                             <strong>
                                 Iulia Dragan
                             </strong>
                         </h2>
-
+                        <h5 className="white-text">Studenta</h5>
+                        <a href="https://www.facebook.com/iuliaa.dragan/" target="blank">
+                            <i className="fab white-text fa-facebook-square fa-2x"></i>
+                        </a>
+                        <a href="https://github.com/iuliadrgn" target="blank">
+                            <i className="fab white-text fa-github-square fa-2x"></i>
+                        </a>
                     </div>
                 </div>
             </div>
