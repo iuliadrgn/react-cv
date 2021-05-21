@@ -12,7 +12,7 @@ class Home extends Component {
         return (
             <section>
                 <div className="row">
-                    <div className="col s12 m12 l4 deep-purple darken-3">
+                    <div className="col s12 m12 l4 red lighten-2">
                         <Profile/>
                         <Contact/>
                         <Skills/>
