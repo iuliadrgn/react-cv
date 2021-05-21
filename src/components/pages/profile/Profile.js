@@ -27,6 +27,19 @@ class Profile extends Component {
                         </a>
                     </div>
                 </div>
+                <div className="card red lighten-2 z-depth-0">
+                    <div className="card-content">
+                        <h6 className="white-text">
+                            <strong>*Despre mine</strong>
+                        </h6>
+                        <hr />
+                        <p className="grey-text text-lighten-3 pt">
+                            Sunt studenta la Facultatea de Automatica și Calculatoare, în anul 3. Obiectivul meu este
+                            să îmi extind cunoștințele și să dobândesc experiență în domeniul programării
+                            calculatoarelor și nu numai. Sunt o persoana deschisa și sunt dornica să învăț.
+                        </p>
+                    </div>
+                </div>
             </div>
         );
     }
