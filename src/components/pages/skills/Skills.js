@@ -11,7 +11,7 @@ class Skills extends Component {
                         </h6>
                         <hr />
                         <div className="row pt">
-                            <br/><br/><br/>
+                            <br/>
                             <div className="col m6 s12">
                                 <p className="grey-text text-lighten-3 pt">Java</p>
                                 <div className="progress white">

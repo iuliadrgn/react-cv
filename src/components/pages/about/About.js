@@ -1,4 +1,20 @@
 import React, {Component} from 'react';
+import { Link } from "react-router-dom";
+
+const ButtonMailto = ({ mailto, label }) => {
+    return (
+        <Link
+            to='#'
+            onClick={(e) => {
+                window.location = mailto;
+                e.preventDefault();
+            }}
+        >
+            {label}
+        </Link>
+    );
+};
+
 
 class About extends Component {
     render() {
@@ -19,6 +35,11 @@ class About extends Component {
                         <a class="item item-icon-right" href="https://github.com/iuliadrgn" target="blank">
                             <i className="fab red-text text-lighten-1 fa-github-square fa-2x"></i>
                         </a>
+
+
+
+
+
 
                         </p>
                     </div>

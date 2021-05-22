@@ -19,7 +19,7 @@
   display: block;
   margin: 0 auto;
   margin-top: 50px;
-  max-width: 200px;
+  max-width: 500px;
 }
 
 .social i{
@@ -34,6 +34,25 @@
   padding-top: 10px;
 }
 
+a:link {
+  color: #8e0f0f;
+}
+
+/* visited link */
+a:visited {
+  color: #7527ba;
+}
+
+/* mouse over link */
+a:hover {
+  color: #39c4b8;
+}
+
+/* selected link */
+a:active {
+  color: #db732f;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -46,6 +65,7 @@
 }
 
 .App-header {
+  background-image: url("bck.jpg");
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -57,7 +77,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #CD5C5C;
 }
 
 @keyframes App-logo-spin {

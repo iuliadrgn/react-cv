@@ -1,4 +1,18 @@
 import React, {Component} from 'react';
+import {Link} from "react-router-dom";
+const ButtonMailto = ({ mailto, label }) => {
+    return (
+        <Link
+            to='#'
+            onClick={(e) => {
+                window.location = mailto;
+                e.preventDefault();
+            }}
+        >
+            {label}
+        </Link>
+    );
+};
 
 class Contact extends Component {
     render() {
@@ -10,11 +24,11 @@ class Contact extends Component {
                         <strong>Contact</strong>
                     </h6>
                     <hr />
-                     <br/><br/><br/>
-                    <p className="grey-text text-lighten-3 pt">
-                        <i className="fas fa-envelope-square fa-1x"></i> : draganiuliaandreea@gmail.com
+                     <br/>
+                    <p className="grey-text text-lighten-2 pt">
+                        <i className="fas fa-envelope-square fa-1x"></i> : <ButtonMailto label="draganiuliaandreea@gmail.com" mailto="mailto:draganiuliaandreea@gmail.com" />
                     </p>
-                    <p className="grey-text text-lighten-3 pt">
+                    <p className="grey-text text-lighten-2 pt">
                         <i className="fas fa-phone fa-1x"></i> : 0730589705
                     </p>
                 </div>

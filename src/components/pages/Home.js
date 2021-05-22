@@ -6,6 +6,8 @@ import Skills from "../pages/skills/Skills";
 import Education from "../pages/education/Education";
 import Projects from "../pages/projects/Projects"
 import Language from "../pages/language/Language"
+import Info from "./info/Info";
+
 
 class Home extends Component {
     render() {
@@ -15,6 +17,7 @@ class Home extends Component {
                     <div className="col s12 m12 l4 red lighten-2 sameHeight_child">
                         <Profile/>
                         <Contact/>
+                        <Info/>
                         <Skills/>
                         <Language/>
 

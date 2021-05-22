@@ -4,7 +4,8 @@ class Projects extends Component {
     render() {
         return (
             <div>
-
+                <div className="card z-depth-0">
+                    <div className="card-content">
                 <h5 className="grey-text text-darken-3">
                     <strong>
                         <i className="fas fa-cat"></i> Proiecte
@@ -85,6 +86,8 @@ class Projects extends Component {
                                 <i className="fas fa-sun"></i> <a href="https://github.com/CristianaLucaci/KeepOnLearningApp">https://github.com/CristianaLucaci/KeepOnLearningApp</a> <br/>
                             </p>
                         </blockquote>
+                    </div>
+                </div>
                     </div>
                 </div>
 
