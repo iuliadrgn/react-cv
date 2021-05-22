@@ -12,12 +12,14 @@ class About extends Component {
                             </strong>
                         </h2>
                         <h5 className="red-text text-lighten-3">Studenta</h5>
-                        <a href="https://www.facebook.com/iuliaa.dragan/" target="blank">
-                            <i className="fab red-text text-lighten-1 fa-facebook-square fa-2x"></i>
+                        <p>
+                        <a class="item item-icon-right" href="https://www.facebook.com/iuliaa.dragan/" target="blank">
+                            <i className="fab red-text text-lighten-1 fa-facebook-square fa-2x"> </i>
                         </a>
-                        <a href="https://github.com/iuliadrgn" target="blank">
+                        <a class="item item-icon-right" href="https://github.com/iuliadrgn" target="blank">
                             <i className="fab red-text text-lighten-1 fa-github-square fa-2x"></i>
                         </a>
+                        </p>
                     </div>
                 </div>
             </div>

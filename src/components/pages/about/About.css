@@ -1,0 +1,23 @@
+p {
+
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+.fab{
+    position:inherit !important;
+    display:inline-block !important;
+    float:right;
+}
+
+.item-icon-right i:nth-child(1) {
+    right: 50px;
+}
+
+h1 {
+    word-spacing: 10px;
+}
+div {
+    text-align: justify;
+}

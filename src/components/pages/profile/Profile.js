@@ -19,25 +19,18 @@ class Profile extends Component {
                             </strong>
                         </h2>
                         <h5 className="grey-text text-lighten-3">Studenta</h5>
+
+                            <p className="solid">
                         <a href="https://www.facebook.com/iuliaa.dragan/" target="blank">
                             <i className="fab white-text fa-facebook-square fa-2x"></i>
-                        </a>
+                        </a></p>
                         <a href="https://github.com/iuliadrgn" target="blank">
                             <i className="fab white-text fa-github-square fa-2x"></i>
                         </a>
                     </div>
                 </div>
                 <div className="card red lighten-2 z-depth-0">
-                    <div className="card-content">
-                        <h6 className="white-text">
-                            <strong>*Despre mine</strong>
-                        </h6>
-                        <hr />
-                        <p className="grey-text text-lighten-3 pt">
-                            Sunt studenta la Facultatea de Automatica și Calculatoare, în anul 3. Obiectivul meu este să îmi extind cunoștințele și să dobândesc experiență în domeniul programării
-                            și nu numai. Sunt o persoana deschisa și sunt dornica să învăț.
-                        </p>
-                    </div>
+
                 </div>
             </div>
         );
