@@ -18,7 +18,7 @@ class Profile extends Component {
                                 Iulia Dragan
                             </strong>
                         </h2>
-                        <h5 className="white-text">Studenta</h5>
+                        <h5 className="grey-text text-lighten-3">Studenta</h5>
                         <a href="https://www.facebook.com/iuliaa.dragan/" target="blank">
                             <i className="fab white-text fa-facebook-square fa-2x"></i>
                         </a>
@@ -34,9 +34,8 @@ class Profile extends Component {
                         </h6>
                         <hr />
                         <p className="grey-text text-lighten-3 pt">
-                            Sunt studenta la Facultatea de Automatica și Calculatoare, în anul 3. Obiectivul meu este
-                            să îmi extind cunoștințele și să dobândesc experiență în domeniul programării
-                            calculatoarelor și nu numai. Sunt o persoana deschisa și sunt dornica să învăț.
+                            Sunt studenta la Facultatea de Automatica și Calculatoare, în anul 3. Obiectivul meu este să îmi extind cunoștințele și să dobândesc experiență în domeniul programării
+                            și nu numai. Sunt o persoana deschisa și sunt dornica să învăț.
                         </p>
                     </div>
                 </div>
