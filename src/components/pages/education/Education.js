@@ -49,7 +49,7 @@ class Education extends Component {
 
                                     <p className=" grey-text text-darken-3 pt">
                                         <br/>
-                                        <i className="fas fa-sun"></i> Colegiul National "Traian Lalescu" , Resita
+                                        <i className="fas fa-sun"></i> <a href="https://www.cntlr.ro/">Colegiul National "Traian Lalescu" , Resita</a> <br/>
                                         <br/> <br/>
                                         <i className="fas fa-sun"></i> Profilul: matematica-informatica
                                         <br/>
@@ -99,7 +99,9 @@ class Education extends Component {
 
                                     <p className=" grey-text text-darken-3 pt">
                                         <br/>
-                                        <i className="fas fa-sun"></i> Universitatea Politehnica Timisoara
+                                        <i className="fas fa-sun"></i> <a href="https://www.upt.ro/">Universitatea Politehnica Timisoara</a> <br/>
+                                        <br/> <br/>
+                                        <i className="fas fa-sun"></i> <a href="https://ac.upt.ro/">Facultatea de Automatica si Calculatoare</a> <br/>
                                         <br/> <br/>
                                         <i className="fas fa-sun"></i> Sectia: Calculatoare si Tehnologia Informatiei
                                         <br/>
