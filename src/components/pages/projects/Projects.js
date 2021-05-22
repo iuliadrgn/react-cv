@@ -88,6 +88,36 @@ class Projects extends Component {
                         </blockquote>
                     </div>
                 </div>
+
+                        <div className="row mt">
+                            <div className="col s12">
+                                <blockquote className="content-right">
+                                    <h6 className="no-pad mt-bottom red-text text-lighten-1">
+                                        <strong>Flappy Cat</strong>
+                                    </h6>
+                                    <br/>
+                                    <h7 className="red-text text-lighten-1">
+                                        <span>Elemente de grafica si interfete om-calculator</span>
+                                    </h7>
+
+
+                                    <p className=" grey-text text-darken-3 pt">
+                                        <br/>
+
+                                        <i className="fas fa-sun"></i> Am incercat sa recreez in Unity jocul Flappy Bird, dar cu o pisica si alt decor desenat de mine.
+                                        <br/>
+                                        <br/>
+                                        <i className="fas fa-sun"></i> Tehnologii si tool-uri folosite: <br/>
+                                        <br/> • Unity - WebGL
+                                        <br/> • C#
+                                        <br/>
+                                        <br/>
+                                        <i className="fas fa-sun"></i> <a href="https://simmer.io/@iuliadrgn/flappy-cat">https://simmer.io/@iuliadrgn/flappy-cat</a> <br/>
+                                    </p>
+                                </blockquote>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
 
