@@ -31,6 +31,12 @@ class Profile extends Component {
                 </div>
                 <div className="card red lighten-2 z-depth-0">
 
+
+
+
+
+
+
                 </div>
             </div>
         );

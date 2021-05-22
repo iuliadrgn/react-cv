@@ -50,7 +50,7 @@ class Education extends Component {
                                     <p className=" grey-text text-darken-3 pt">
                                         <br/>
                                         <i className="fas fa-sun"></i> Colegiul National "Traian Lalescu" , Resita
-                                        <br/>
+                                        <br/> <br/>
                                         <i className="fas fa-sun"></i> Profilul: matematica-informatica
                                         <br/>
                                     </p>
@@ -74,9 +74,9 @@ class Education extends Component {
                                     <p className=" grey-text text-darken-3 pt">
                                         <br/>
                                         <i className="fas fa-sun"></i> Matematica-Informatica
-                                        <br/>
+                                        <br/> <br/>
                                         <i className="fas fa-sun"></i> Nota 9.50 din 10 la matematica
-                                        <br/>
+                                        <br/> <br/>
                                         <i className="fas fa-sun"></i> Media 9.16
                                         <br/>
                                     </p>
@@ -100,7 +100,7 @@ class Education extends Component {
                                     <p className=" grey-text text-darken-3 pt">
                                         <br/>
                                         <i className="fas fa-sun"></i> Universitatea Politehnica Timisoara
-                                        <br/>
+                                        <br/> <br/>
                                         <i className="fas fa-sun"></i> Sectia: Calculatoare si Tehnologia Informatiei
                                         <br/>
                                     </p>
