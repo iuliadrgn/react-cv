@@ -7,7 +7,7 @@ class Contact extends Component {
                 <div className="card red lighten-2 z-depth-0">
                  <div className="card-content">
                     <h6 className="white-text">
-                        <strong>*Contact</strong>
+                        <strong>Contact</strong>
                     </h6>
                     <hr />
                     <p className="grey-text text-lighten-3 pt">

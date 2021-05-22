@@ -7,7 +7,7 @@ class Skills extends Component {
                 <div className="card red lighten-2 z-depth-0">
                     <div className="card-content">
                         <h6 className="white-text">
-                            <strong>*Abilități</strong>
+                            <strong>Abilități</strong>
                         </h6>
                         <hr />
                         <div className="row pt">

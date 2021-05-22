@@ -5,7 +5,7 @@ import About from "../pages/about/About";
 import Skills from "../pages/skills/Skills";
 import Education from "../pages/education/Education";
 import Projects from "../pages/projects/Projects"
-
+import Language from "../pages/language/Language"
 
 class Home extends Component {
     render() {
@@ -16,6 +16,7 @@ class Home extends Component {
                         <Profile/>
                         <Contact/>
                         <Skills/>
+                        <Language/>
 
                     </div>
                     <div className="col s12 m12 l8 white">
