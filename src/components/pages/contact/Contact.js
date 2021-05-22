@@ -10,11 +10,12 @@ class Contact extends Component {
                         <strong>Contact</strong>
                     </h6>
                     <hr />
+                     <br/><br/><br/>
                     <p className="grey-text text-lighten-3 pt">
-                       Email: draganiuliaandreea@gmail.com
+                        <i className="fas fa-envelope-square fa-1x"></i> : draganiuliaandreea@gmail.com
                     </p>
                     <p className="grey-text text-lighten-3 pt">
-                        Telefon: 0730589705
+                        <i className="fas fa-phone fa-1x"></i> : 0730589705
                     </p>
                 </div>
                 </div>

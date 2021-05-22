@@ -11,6 +11,7 @@ class Skills extends Component {
                         </h6>
                         <hr />
                         <div className="row pt">
+                            <br/><br/><br/>
                             <div className="col m6 s12">
                                 <p className="grey-text text-lighten-3 pt">Java</p>
                                 <div className="progress white">
@@ -25,12 +26,14 @@ class Skills extends Component {
                                 </div>
                             </div>
 
+
                             <div className="col m6 s12">
                                 <p className="grey-text text-lighten-3 pt">Microsoft Office</p>
                                 <div className="progress white">
                                     <div className="determinate grey" style={{width: '95%'}}></div>
                                 </div>
                             </div>
+
 
                             <div className="col m6 s12">
                                 <p className="grey-text text-lighten-3 pt">HTML,CSS</p>
@@ -39,12 +42,14 @@ class Skills extends Component {
                                 </div>
                             </div>
 
+
                             <div className="col m6 s12">
                                 <p className="grey-text text-lighten-3 pt">Matlab</p>
                                 <div className="progress white">
                                     <div className="determinate grey" style={{width: '30%'}}></div>
                                 </div>
                             </div>
+
 
                             <div className="col m6 s12">
                                 <p className="grey-text text-lighten-3 pt">Assembly</p>
@@ -53,12 +58,15 @@ class Skills extends Component {
                                 </div>
                             </div>
 
+
                             <div className="col m6 s12">
                                 <p className="grey-text text-lighten-3 pt">Linux, Scripts</p>
                                 <div className="progress white">
                                     <div className="determinate grey" style={{width: '57%'}}></div>
                                 </div>
                             </div>
+
+
                             <div className="col m6 s12">
                                 <p className="grey-text text-lighten-3 pt">Angular</p>
                                 <div className="progress white">
@@ -66,12 +74,14 @@ class Skills extends Component {
                                 </div>
                             </div>
 
+
                             <div className="col m6 s12">
                                 <p className="grey-text text-lighten-3 pt">TypeScript/JavaScript</p>
                                 <div className="progress white">
                                     <div className="determinate grey" style={{width: '25%'}}></div>
                                 </div>
                             </div>
+
 
                             <div className="col m6 s12">
                                 <p className="grey-text text-lighten-3 pt">React</p>

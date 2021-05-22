@@ -19,6 +19,7 @@ class About extends Component {
                         <a class="item item-icon-right" href="https://github.com/iuliadrgn" target="blank">
                             <i className="fab red-text text-lighten-1 fa-github-square fa-2x"></i>
                         </a>
+
                         </p>
                     </div>
                 </div>

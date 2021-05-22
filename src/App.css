@@ -2,6 +2,38 @@
   text-align: center;
 }
 
+.sameHeight{
+  display: flex;
+  flex-direction: row;
+  flex-flow: wrap;
+  justify-content: space-between;
+  align-items: stretch;
+}
+
+.wrap_content{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.avatarImg{
+  display: block;
+  margin: 0 auto;
+  margin-top: 50px;
+  max-width: 200px;
+}
+
+.social i{
+  padding: 2px;
+
+}
+
+.mt{
+  margin-top: 20px;
+}
+.pt{
+  padding-top: 10px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;

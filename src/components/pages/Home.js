@@ -11,15 +11,15 @@ class Home extends Component {
     render() {
         return (
             <section>
-                <div className="row">
-                    <div className="col s12 m12 l4 red lighten-2">
+                <div className="row sameHeight">
+                    <div className="col s12 m12 l4 red lighten-2 sameHeight_child">
                         <Profile/>
                         <Contact/>
                         <Skills/>
                         <Language/>
 
                     </div>
-                    <div className="col s12 m12 l8 white">
+                    <div className="col s12 m12 l8 white sameHeight_child">
                         <About/>
                         <Education/>
                         <Projects/>
