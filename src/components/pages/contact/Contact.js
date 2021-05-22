@@ -28,6 +28,11 @@ class Contact extends Component {
                     <p className="grey-text text-lighten-2 pt">
                         <i className="fas fa-envelope-square fa-1x"></i> : <ButtonMailto label="draganiuliaandreea@gmail.com" mailto="mailto:draganiuliaandreea@gmail.com" />
                     </p>
+
+                     <p className="grey-text text-lighten-2 pt">
+                         <i className="fas fa-envelope-square fa-1x"></i> : <ButtonMailto label="iulia.dragan@student.upt.ro" mailto="mailto:draganiuliaandreea@gmail.com" />
+                     </p>
+
                     <p className="grey-text text-lighten-2 pt">
                         <i className="fas fa-phone fa-1x"></i> : 0730589705
                     </p>

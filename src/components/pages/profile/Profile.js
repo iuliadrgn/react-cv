@@ -27,6 +27,10 @@ class Profile extends Component {
                         <a href="https://github.com/iuliadrgn" target="blank">
                             <i className="fab white-text fa-github-square fa-2x"></i>
                         </a>
+                        <a className="item item-icon-right" href="https://www.linkedin.com/in/iulia-dragan-2739bb20b/"
+                           target="blank">
+                            <i className="fab red-text text-lighten-1 fa-linkedin fa-2x"></i>
+                        </a>
                     </div>
                 </div>
                 <div className="card red lighten-2 z-depth-0">

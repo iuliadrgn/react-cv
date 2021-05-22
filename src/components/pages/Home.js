@@ -7,7 +7,7 @@ import Education from "../pages/education/Education";
 import Projects from "../pages/projects/Projects"
 import Language from "../pages/language/Language"
 import Info from "./info/Info";
-
+import Hobbies from "./hobbies/Hobbies";
 
 class Home extends Component {
     render() {
@@ -20,6 +20,7 @@ class Home extends Component {
                         <Info/>
                         <Skills/>
                         <Language/>
+                        <Hobbies/>
 
                     </div>
                     <div className="col s12 m12 l8 white sameHeight_child">

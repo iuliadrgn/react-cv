@@ -36,6 +36,10 @@ class About extends Component {
                             <i className="fab red-text text-lighten-1 fa-github-square fa-2x"></i>
                         </a>
 
+                        <a class="item item-icon-right" href="https://www.linkedin.com/in/iulia-dragan-2739bb20b/" target="blank">
+                            <i className="fab red-text text-lighten-1 fa-linkedin fa-2x"></i>
+                        </a>
+
 
 
 
