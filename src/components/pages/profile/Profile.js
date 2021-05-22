@@ -11,7 +11,7 @@ class Profile extends Component {
                          alt="Iulia Dragan"
                          />
                 </div>
-                <div className="card red lighten-2 z-depth-0">
+                <div className="card red lighten-2 z-depth-0 hide-on-large-only">
                     <div className="card-content center social">
                         <h2 className="white-text text-darken-3">
                             <strong>
