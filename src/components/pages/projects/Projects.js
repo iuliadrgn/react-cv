@@ -108,10 +108,13 @@ class Projects extends Component {
                                         <br/>
                                         <br/>
                                         <i className="fas fa-sun"></i> Tehnologii si tool-uri folosite: <br/>
+
                                         <br/> • Unity - WebGL
                                         <br/> • C#
+
                                         <br/>
                                         <br/>
+
                                         <i className="fas fa-sun"></i> <a href="https://simmer.io/@iuliadrgn/flappy-cat">https://simmer.io/@iuliadrgn/flappy-cat</a> <br/>
                                     </p>
                                 </blockquote>
